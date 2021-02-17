@@ -13,7 +13,7 @@ Here is some of the basic info:
 # Asad Ali
 
 [![Github](https://img.shields.io/github/followers/asadalidev?label=Follow&style=social)](https://github.com/asadalidev)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/asadalidev)
+[![Linkedin](https://img.shields.io/badge/-Asad%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/asadalidev)
 [![Mail](https://img.shields.io/badge/-me@asadali.dev-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:me@asadali.dev)
 
 ## Stack I work with
