@@ -1,3 +1,9 @@
+# Asad Ali
+
+[![Github](https://img.shields.io/github/followers/asadalidev?label=Follow&style=social)](https://github.com/asadalidev)
+[![Linkedin](https://img.shields.io/badge/-Asad%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/asadalidev)
+[![Mail](https://img.shields.io/badge/-me@asadali.dev-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:me@asadali.dev)
+
 ## About me 
 Hello! I am Asad Ali. I am a full-stack developer with over 05+ years of industry
 experience in application design, development and maintenance
@@ -17,11 +23,6 @@ Here is some of the basic info:
 - 📫 How to reach me ... me@asadali.dev / +92-341-2414692
 - ⚡ Fun fact: ... The Best is yet to come..!
 
-# Asad Ali
-
-[![Github](https://img.shields.io/github/followers/asadalidev?label=Follow&style=social)](https://github.com/asadalidev)
-[![Linkedin](https://img.shields.io/badge/-Asad%20Ali-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/asadalidev)
-[![Mail](https://img.shields.io/badge/-me@asadali.dev-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:me@asadali.dev)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
