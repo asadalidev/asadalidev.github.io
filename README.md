@@ -1,11 +1,18 @@
+## About me 
+Hello! I am Asad Ali. I am a full-stack developer with over 05+ years of industry
+experience in application design, development and maintenance
+using Microsoft .NET technologies. Strong knowledge of .NET
+platform with an in depth knowledge of Object-oriented design,
+SOLID design principles. I am also a big fan of DDD, CQRS,
+RESTful APIs and distributed systems using microservices
+pattern.
+
 ### Here is what I am working on 👋
 
 Here is some of the basic info:
 
-- 🔭 I’m currently working on ... ASP.NET Core, Node.js, ReactNative
-- 🌱 I’m currently learning ... Scala, Rust
-- 👯 I’m looking to collaborate on ... ASP.NET Core Applications, 
-- 🤔 I’m looking for help with ... Rust
+- 🔭 I’m currently working on ... ASP.NET Core, Node.js, Angular, React.js
+- 🌱 I’m currently learning ... Vue.js, Terraform, 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... me@asadali.dev / +92-341-2414692
 - ⚡ Fun fact: ... The Best is yet to come..!
@@ -17,18 +24,9 @@ Here is some of the basic info:
 [![Mail](https://img.shields.io/badge/-me@asadali.dev-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:me@asadali.dev)
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>		
@@ -39,8 +37,6 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/pycharm.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/fluent/344/visual-studio-2019.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/teradata.png"></code>
@@ -62,13 +58,9 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 
-## About me 
-I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
-I'm open-source development enthusiast.
 
 ### Interesting stats
 
