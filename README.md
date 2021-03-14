@@ -69,4 +69,4 @@ Here is some of the basic info:
 
 ### Interesting stats
 
-[![Asad's stats](https://github-readme-stats.vercel.app/api?username=asadalidev&show_icons=true)]
+![Asad's stats](https://github-readme-stats.vercel.app/api?username=asadalidev&show_icons=true)
